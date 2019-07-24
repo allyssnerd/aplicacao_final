@@ -1,0 +1,10 @@
+
+.form-card {
+    width: 25rem;
+    max-width: 95%;
+    margin: auto;
+}
+
+.toggle-password {
+    cursor: pointer;
+}
